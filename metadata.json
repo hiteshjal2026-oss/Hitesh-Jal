@@ -1,0 +1,6 @@
+{
+  "name": "WinEngineer Research OS",
+  "description": "Windows-like desktop workspace for engineers to accelerate research with instant Google Scholar, Patents, Datasets, and advanced query synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
